@@ -95,9 +95,15 @@ https://public.tableau.com/app/profile/san.vinoth/viz/YelpDatasetComparativeAnal
 
 ## Learning
 Spark
+
 Databricks
+
 Azure Blob
+ 
 Tableau
+
 Setting up standalone clusters
+
 Hadoop environment setup
+
 Team Work
